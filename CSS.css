@@ -1,0 +1,27 @@
+body {
+	font-family: tahoma;
+}
+
+.img{
+	width: 820px;
+	height: auto;
+}
+
+.paragrafo{
+	font-size: 18px;
+	text-align: left;
+	letter-spacing: 1px;
+	width: 800px;
+}
+
+h1{
+	text-align: left;
+	width: 800px;
+	font-size: 50px;
+
+}
+
+h2{
+	font-weight: bold;
+	font-size: 14px;
+}
