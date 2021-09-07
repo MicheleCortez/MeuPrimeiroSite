@@ -1,2 +1,23 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+<!DOCTYPE html>
+
+<html>
+
+	   <head>
+         <title>UOL</title>
+     </head>
+ 
+    <body>
+
+        <h1>Lava Jato atribui a almirante da Eletronuclear ‘crimes de gravidade em série’</h1>
+
+        <img class="img" src="img/imagem1.jpeg">
+
+        <h2>Othon Luiz Pinheiro da Silva, presidente licenciado da Eletronuclear</h2>
+
+            <p class="paragrafo">Ao mandar prender o presidente licenciado da Eletronuclear, Almirante Othon Luiz Pinheiro da Silva, e o presidente global da Andrade Gutierrez Energia, Flávio David Barra, na Operação Radiotividade, nesta terça-ferira, 28, o juiz federal Sérgio Moro se valeu de relatório da força-tarefa da Lava Jato, segundo a qual os "investigados se associaram para praticar em série crimes de gravidade"</p>
+
+            <p class="paragrafo">"A prisão temporária é, nesse período, imprescindível para evitar concertação fraudulenta de versões entre os investigados, garantindo que sejam ouvidos pela autoridade policial separadamente e sem que recebam influências indevidas uns dos outros."</p>
+    </body>
+</html>
